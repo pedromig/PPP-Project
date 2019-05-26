@@ -1,4 +1,4 @@
-# Install script for directory: /home/pedro/CLionProjects/projetoPPP
+# Install script for directory: /home/pedro/CLionProjects/PPP-Project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/pedro/CLionProjects/projetoPPP/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/pedro/CLionProjects/PPP-Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
