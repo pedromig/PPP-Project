@@ -7,7 +7,6 @@
 #include "Headers/PlacesList.h"
 #include "Headers/PointsOfInterestList.h"
 #include "Headers/Menus.h"
-#include "Headers/StudentsList.h"
 
 // Função que verifica se a lista de locais está vazia
 // Recebe a cabeça da lista e retorna 1 se estiver vazia e 0 caso contrario

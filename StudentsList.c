@@ -6,7 +6,6 @@
 #include "Headers/StudentsList.h"
 #include "Headers/PlacesList.h"
 #include "Headers/functions.h"
-#include "Headers/PointsOfInterestList.h"
 #include "Headers/Menus.h"
 
 /*Maior parte das funções tem coportamento semelhante ás funções presentes no ficheiro PlacesList.c*/

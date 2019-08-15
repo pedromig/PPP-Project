@@ -4,10 +4,7 @@
 
 #include "Headers/structs.h"
 #include "Headers/functions.h"
-#include "Headers/PointsOfInterestList.h"
-#include "Headers/PlacesList.h"
 #include "Headers/Menus.h"
-#include "Headers/StudentsList.h"
 #include "Headers/files.h"
 
 /*Maior parte das funções tem coportamento semelhante ás funções presentes no ficheiro PlacesList.c*/

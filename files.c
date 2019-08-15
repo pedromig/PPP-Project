@@ -2,10 +2,8 @@
 #include <stdlib.h>
 #include <locale.h>
 #include <string.h>
-#include <ctype.h>
 
 #include "Headers/structs.h"
-#include "Headers/files.h"
 #include "Headers/functions.h"
 
 /* Os ficheiros que contém os dados dos alunos e dos locais juntamente com o executavel e makefile escontram-se na

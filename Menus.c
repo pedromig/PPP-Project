@@ -1,7 +1,6 @@
 #include "stdio.h"
 #include "stdlib.h"
 
-#include "Headers/Menus.h"
 #include "Headers/functions.h"
 
 // Ficheiro que contém a maioria dos menus do programa(menus estáticos)

@@ -1,11 +1,9 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
 #include "Headers/structs.h"
 #include "Headers/PointsOfInterestList.h"
 #include "Headers/PlacesList.h"
-#include "Headers/TripList.h"
 #include "Headers/files.h"
 #include "Headers/StudentsList.h"
 #include "Headers/functions.h"

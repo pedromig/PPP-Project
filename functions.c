@@ -5,10 +5,7 @@
 #include <ctype.h>
 #include <time.h>
 
-#include "Headers/structs.h"
-#include "Headers/files.h"
 #include "Headers/functions.h"
-#include "Headers/PointsOfInterestList.h"
 #include "Headers/Menus.h"
 
 // Função que remove o caracter '/n' numa string que é passada como argumento da função

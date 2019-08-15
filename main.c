@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-#include <string.h>
-#include <time.h>
 
 #include "Headers/structs.h"
 #include "Headers/files.h"

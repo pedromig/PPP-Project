@@ -1,7 +1,5 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>    /*setlocale(LC_ALL,"Portuguese");*/
-#include <string.h>
 #include "Headers/structs.h"
 #include "Headers/functions.h"
 
